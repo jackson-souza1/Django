@@ -61,7 +61,7 @@ nltk==3.5
 numpy==1.19.0
 oauth==1.0.1
 olefile==0.45.1
-paramiko==2.0.0
+paramiko==2.0.9
 passlib==1.7.2
 pexpect==4.2.1
 Pillow==7.2.0
