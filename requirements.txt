@@ -20,7 +20,7 @@ cupshelpers==1.0
 cymem==2.0.3
 defer==1.0.6
 distro-info===0.18ubuntu0.18.04.1
-Django==3.0.8
+Django==3.0.12
 django-bootstrap4==2.2.0
 django-stdimage==5.1.1
 Flask==0.12.2
